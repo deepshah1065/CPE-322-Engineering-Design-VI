@@ -7,7 +7,7 @@
 #### Block Quote
 > _"Great things come from hard work and perseverance. No excuses"_ - Kobe Bryant
 
-##### <ins>**Skills**</ins>
+#### <ins>**Skills**</ins>
 1. **Software**
   - 3D Printing
   - Google Suite
@@ -28,7 +28,7 @@
 4. **Certifications**
     - Mental Health First Aid for Higher Education 
 
-###### **<ins>Revelant Coursework</ins>**
+#### **<ins>Revelant Coursework</ins>**
 - Circuits & Systems
 - Data Structures & Algorithms
 - Electronic Circuits
@@ -41,18 +41,18 @@
 - Image Processing
 - Modeling & Simulation
 
-####### **<ins>Horizontal Rule</ins>**
+#### **<ins>Horizontal Rule</ins>**
 
 ---
 
 
-######## **<ins>Code</ins>**
+#### **<ins>Code</ins>**
 'print("Hello World!")'
 
-######### **<ins>Link</ins>**
+#### **<ins>Link</ins>**
 [Deep Shah's LinkedIn Page](https://www.linkedin.com/in/deep-shah-583378260/)
 
-########## **<ins>Image</ins>**
+#### **<ins>Image</ins>**
 ![Stevens Institute of Technology](https://images.ctfassets.net/mviowpldu823/6PIQaMyacd17eDN3M91T9P/a8b5ae5daff3e444d8be58b320c20682/332_0001.jpg)
 
 
