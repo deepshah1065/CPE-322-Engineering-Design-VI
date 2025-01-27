@@ -1,7 +1,7 @@
-[//] _I pledge my honor that I have abided by the Stevens Honor System._ - Deep Shah
+ _I pledge my honor that I have abided by the Stevens Honor System._ - Deep Shah
 
 # **<ins>Deep Shah's Technical Portfolio</ins>**
-## **<ins>Major:</ins>>** Computer Engineering
+## **<ins>Major:</ins>** Computer Engineering
 ### **<ins>Concentrations:</ins>** Artificial Intelligence, Electronics & Embedded Systems
 ---
 #### Block Quote
