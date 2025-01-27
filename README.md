@@ -48,7 +48,7 @@
 [Deep Shah's LinkedIn Page](https://www.linkedin.com/in/deep-shah-583378260/)
 ---
 #### **<ins>Image</ins>**
-![Stevens Institute of Technology](https://images.ctfassets.net/mviowpldu823/6PIQaMyacd17eDN3M91T9P/a8b5ae5daff3e444d8be58b320c20682/332_0001.jpg)
+![Tux, the Linux mascot](/assets/images/tux.png)
 
 
 
