@@ -42,6 +42,7 @@
     - Modeling & Simulation
 ---
 #### **<ins>Code</ins>**
+print("Hello World"!) would output the Hello World! in Python.
 ---
 #### **<ins>Link</ins>**
 [Deep Shah's LinkedIn Page](https://www.linkedin.com/in/deep-shah-583378260/)
