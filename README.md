@@ -48,7 +48,7 @@
 [Deep Shah's LinkedIn Page](https://www.linkedin.com/in/deep-shah-583378260/)
 ---
 #### **<ins>Image</ins>**
-![Famous Basketball Players](C:\Users\Sanjay Shah\OneDrive\kobe-bryant-michael-jordan.jpg)
+![Famous Basketball Players](kobe-bryant-michael-jordan.jpg)
 
 
 
