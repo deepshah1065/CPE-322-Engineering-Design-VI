@@ -42,7 +42,6 @@
     - Modeling & Simulation
 ---
 #### **<ins>Code</ins>**
-To do a basic line of code in Python, you can write 'print("Hello World!")', which would print out "Hello World!".
 ---
 #### **<ins>Link</ins>**
 [Deep Shah's LinkedIn Page](https://www.linkedin.com/in/deep-shah-583378260/)
