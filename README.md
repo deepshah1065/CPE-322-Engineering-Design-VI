@@ -4,7 +4,7 @@
 ## **<ins>Major:</ins>** Computer Engineering
 ### **<ins>Concentrations:</ins>** Artificial Intelligence, Electronics & Embedded Systems
 ---
-#### Block Quote
+#### <ins>Block Quote</ins>
 > _"Great things come from hard work and perseverance. No excuses"_ - Kobe Bryant
 ---
 #### <ins>**Skills**</ins>
