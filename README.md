@@ -27,7 +27,7 @@
     - Spanish (Elementary Proficiency)
 4. **Certifications**
     - Mental Health First Aid for Higher Education 
-
+---
 #### **<ins>Revelant Coursework</ins>**
     - Circuits & Systems
     - Data Structures & Algorithms
