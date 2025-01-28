@@ -5,7 +5,7 @@ _I pledge my honor that I have abided by the Stevens Honor System._ - Deep Shah
 ### **<ins>Concentrations:</ins>** Artificial Intelligence, Electronics & Embedded Systems
 ---
 #### <ins>Block Quote</ins>
-> _"Great things come from hard work and perseverance. No excuses"_ - Kobe Bryant
+> _"Great things come from hard work and perseverance. No excuses."_ - Kobe Bryant
 ---
 #### <ins>**Skills**</ins>
 1. **Software**
