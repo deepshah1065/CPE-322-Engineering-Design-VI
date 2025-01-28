@@ -42,7 +42,7 @@ _I pledge my honor that I have abided by the Stevens Honor System._ - Deep Shah
     - Modeling & Simulation
 ---
 #### **<ins>Code</ins>**
-`print("Hello World!")` would output the Hello World! in Python.
+`print("Hello World!")` would output Hello World! in Python.
 ---
 #### **<ins>Link</ins>**
 [Deep Shah's LinkedIn Page](https://www.linkedin.com/in/deep-shah-583378260/)
