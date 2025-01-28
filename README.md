@@ -28,7 +28,7 @@ _I pledge my honor that I have abided by the Stevens Honor System._ - Deep Shah
 4. **Certifications**
     - Mental Health First Aid for Higher Education 
 ---
-#### **<ins>Revelant Coursework</ins>**
+#### **<ins>Relevant Coursework</ins>**
     - Circuits & Systems
     - Data Structures & Algorithms
     - Electronic Circuits
