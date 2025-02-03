@@ -52,7 +52,7 @@ _I pledge my honor that I have abided by the Stevens Honor System._ - Deep Shah
 #### **<ins>Image</ins>**
 ![Famous Basketball Players](kobe-bryant-michael-jordan.jpg)
 ---
-#### Assignment 1: Team Project Site
+**#### <ins>Assignment 1: Team Project Site</ins>**
 [Design VI Site](https://sites.google.com/d/1gKph5oTHx2SAKXQqhECUpc4LjFwzs4wF/p/1WQJG3L9pJgaptfx8nHlmHoqLXnRVhNpX/edit)
 
 
