@@ -3,5 +3,5 @@
 ![Half-Adder Code](LabHalfAdderCode.png)
 ![Half-Adder Output](LabHalfAdderOutput.png)
 ![4-to-1 Multiplexer Code](Lab.png)
-![4-to-1 Multiplexer Output](LabHalfAdderCode.png)
+![4-to-1 Multiplexer Output](4-to-1 Multiplexer Code.png)
 
