@@ -10,3 +10,4 @@
 ### **Output**
 ![Output](4-to-1MultiplexerOutput.png)
 
+# **<ins>Lab 2 — Command Line</ins>**
