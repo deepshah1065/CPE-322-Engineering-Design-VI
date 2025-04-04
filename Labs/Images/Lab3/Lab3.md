@@ -49,7 +49,7 @@
 
 ## **<ins> Built-in Functions </ins>** 
 ### **Code/Output**
-![Code](BuildInFunction.png)
+![Code](Build_In_Function.png)
 
 
 
