@@ -80,4 +80,10 @@
 ## **<ins> Install required Python packages such as jdcal, astral, and geopy </ins>** 
 ![Code](Installation_Of_Packages.png)
 
+## **<ins> Git </ins>** 
+![Code](Git.png)
+
+## **<ins> Julian, Date_Example, Date Time_Example </ins>** 
+![Code](Julian,Date_Example,DateTime_Example,Time_Example.png)
+
 
