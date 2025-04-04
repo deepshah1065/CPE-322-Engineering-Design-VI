@@ -47,6 +47,9 @@
 ### **Code/Output**
 ![Code](Mathematical_Functions.png)
 
+## **<ins> Built-in Functions </ins>** 
+### **Code/Output**
+![Code](BuildInFunction.png)
 
 
 
