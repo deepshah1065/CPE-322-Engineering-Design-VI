@@ -35,6 +35,11 @@
 ### **Code/Output**
 ![Code](While_Loop_Statement.png)
 
+## **<ins> Break </ins>** 
+### **Code/Output**
+![Code](Break_Statement.png)
+
+
 
 
 
