@@ -9,3 +9,5 @@
 ![Code](HalfAdderCode.png)
 
 ## **<ins>Terminal 2</ins>**
+![Code](Terminal2.png)
+
