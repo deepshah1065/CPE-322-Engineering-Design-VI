@@ -43,6 +43,9 @@
 ### **Code/Output**
 ![Code](Continue_Statement.png)
 
+## **<ins> Mathematical Functions </ins>** 
+### **Code/Output**
+![Code](Mathematical_Functions.png)
 
 
 
