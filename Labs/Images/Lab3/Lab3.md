@@ -65,7 +65,7 @@
 
 ## **<ins> Variable-length arguments </ins>** 
 ### **Code/Output**
-![Code](Keyword_Argument.png)
+![Code](Variable_length_arguments.png)
 
 ## **<ins> Modules </ins>** 
 ### **Code/Output**
