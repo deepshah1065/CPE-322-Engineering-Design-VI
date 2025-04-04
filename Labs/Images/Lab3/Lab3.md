@@ -31,6 +31,12 @@
 ### **Code/Output**
 ![Code](For_loop_statement.png)
 
+## **<ins> While </ins>** 
+### **Code/Output**
+![Code](While_Loop_statement.png)
+
+
+
 
 
 
