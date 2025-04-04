@@ -15,4 +15,9 @@
 ### **Code/Output**
 ![Code](Lists.png)
 
+## **<ins>Dictionaries </ins>** 
+### **Code/Output**
+![Code](Dictionaries.png)
+
+
 
