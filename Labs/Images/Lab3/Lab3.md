@@ -63,7 +63,17 @@
 ### **Code/Output**
 ![Code](Keyword_Argument.png)
 
+## **<ins> Variable-length arguments </ins>** 
+### **Code/Output**
+![Code](Keyword_Argument.png)
+
+## **<ins> Modules </ins>** 
+### **Code/Output**
+![Code](Keyword_Argument.png)
 
 
+## **<ins> Read and Write Files </ins>** 
+### **Code/Output**
+![Code](Keyword_Argument.png)
 
 
