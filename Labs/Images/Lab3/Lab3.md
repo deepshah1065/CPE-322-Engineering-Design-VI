@@ -39,6 +39,11 @@
 ### **Code/Output**
 ![Code](Break_Statement.png)
 
+## **<ins> Continue (or pass) </ins>** 
+### **Code/Output**
+![Code](Continue_Statement.png)
+
+
 
 
 
