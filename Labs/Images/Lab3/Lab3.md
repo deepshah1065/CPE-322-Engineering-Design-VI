@@ -6,3 +6,8 @@
 ## **<ins>Strings: text and binary data </ins>** 
 ### **Code/Output**
 ![Code](Strings.png)
+
+## **<ins>Tuples </ins>** 
+### **Code/Output**
+![Code](Tuples.png)
+
