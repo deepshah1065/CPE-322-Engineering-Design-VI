@@ -1,5 +1,6 @@
 # **<ins>Paho-MQTT</ins>**
 ## **<ins>Terminal 1</ins>**
+
 ![Code](Terminal1Part1.png)
 ![Code](Terminal1Part2.png)
 ![Code](Terminal1Part3.png)
