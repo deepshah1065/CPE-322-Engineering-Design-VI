@@ -19,14 +19,17 @@
 ### **Code/Output**
 ![Code](Dictionaries.png)
 
-## **<ins>If else </ins>** 
+## **<ins> If else </ins>** 
 ### **Code/Output**
 ![Code](If_Else_Statement.png)
 
-## **<ins>If not </ins>** 
+## **<ins> If not </ins>** 
 ### **Code/Output**
 ![Code](If_Not_Statement.png)
 
+## **<ins> For </ins>** 
+### **Code/Output**
+![Code](For_loop_statement.png)
 
 
 
