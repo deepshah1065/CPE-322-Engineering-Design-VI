@@ -3,19 +3,23 @@
 ### **Code/Output**
 ![Code](Numbers.png)
 
-## **<ins>Strings: text and binary data </ins>** 
+## **<ins> Strings: text and binary data </ins>** 
 ### **Code/Output**
 ![Code](Strings.png)
 
-## **<ins>Tuples </ins>** 
+## **<ins> Tuples </ins>** 
 ### **Code/Output**
 ![Code](Tuples.png)
 
-## **<ins>Lists </ins>** 
+## **<ins> Lists </ins>** 
 ### **Code/Output**
 ![Code](Lists.png)
 
-## **<ins>Dictionaries </ins>** 
+## **<ins> Dictionaries </ins>** 
+### **Code/Output**
+![Code](Dictionaries.png)
+
+## **<ins>If else </ins>** 
 ### **Code/Output**
 ![Code](Dictionaries.png)
 
