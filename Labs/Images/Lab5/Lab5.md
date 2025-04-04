@@ -1,6 +1,6 @@
 # **<ins>Paho-MQTT</ins>**
 ## **<ins>Terminal 1</ins>**
-![Code](Terminal 1 Part 1.png)
+![Code](.png)
 ![Code](HalfAdderCode.png)
 ![Code](HalfAdderCode.png)
 ![Code](HalfAdderCode.png)
