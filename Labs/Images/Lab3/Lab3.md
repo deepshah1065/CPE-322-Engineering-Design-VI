@@ -86,7 +86,7 @@
 ## **<ins> Julian, Date_Example, and Date Time_Example </ins>** 
 ![Code](Julian,Date_Example,DateTime_Example,Time_Example.png)
 
-## **<ins> Sun, Moon </ins>** 
+## **<ins> Sun and Moon </ins>** 
 ![Code](Sun_Moon.png)
 
 ## **<ins> Coordinates, Address, CPU, Battery, and Documentstats </ins>** 
