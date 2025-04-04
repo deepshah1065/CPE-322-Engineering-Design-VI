@@ -74,6 +74,8 @@
 
 ## **<ins> Read and Write Files </ins>** 
 ### **Code/Output**
-![Code](Keyword_Argument.png)
+![Code](Read_and_write_files_1.png)
+![Code](Read_and_write_files_2.png)
+
 
 
