@@ -11,3 +11,8 @@
 ### **Code/Output**
 ![Code](Tuples.png)
 
+## **<ins>Lists </ins>** 
+### **Code/Output**
+![Code](Lists.png)
+
+
