@@ -33,7 +33,7 @@
 
 ## **<ins> While </ins>** 
 ### **Code/Output**
-![Code](While_Loop_statement.png)
+![Code](While_Loop_Statement.png)
 
 
 
