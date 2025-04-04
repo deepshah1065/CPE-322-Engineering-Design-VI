@@ -51,7 +51,13 @@
 ### **Code/Output**
 ![Code](Built_In_Function.png)
 
+## **<ins> Defining Functions </ins>** 
+### **Code/Output**
+![Code](Built_In_Function.png)
 
+## **<ins> Defining Functions </ins>** 
+### **Code/Output**
+![Code](Defining_functions.png)
 
 
 
