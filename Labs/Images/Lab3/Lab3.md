@@ -23,6 +23,10 @@
 ### **Code/Output**
 ![Code](If_Else_Statement.png)
 
+## **<ins>If not </ins>** 
+### **Code/Output**
+![Code](If_Not_Statement.png)
+
 
 
 
