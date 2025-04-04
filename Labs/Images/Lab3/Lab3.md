@@ -21,7 +21,9 @@
 
 ## **<ins>If else </ins>** 
 ### **Code/Output**
-![Code](Dictionaries.png)
+![Code](If_Else_Statement.png)
+
+
 
 
 
