@@ -77,15 +77,19 @@
 ![Code](Read_and_write_files_1.png)
 ![Code](Read_and_write_files_2.png)
 
-## **<ins> Install required Python packages such as jdcal, astral, and geopy </ins>** 
+## **<ins> Install Jdcal, Astral, and Geopy </ins>** 
 ![Code](Installation_Of_Packages.png)
 
 ## **<ins> Git </ins>** 
 ![Code](Git.png)
 
-## **<ins> Julian, Date_Example, Date Time_Example </ins>** 
+## **<ins> Julian, Date_Example, and Date Time_Example </ins>** 
 ![Code](Julian,Date_Example,DateTime_Example,Time_Example.png)
 
 ## **<ins> Sun, Moon </ins>** 
 ![Code](Sun_Moon.png)
+
+## **<ins> Coordinates, Address, CPU, Battery, and Documentstats </ins>** 
+![Code](Coordinates_Address_Cpu_Battery_Documentstats.png)
+
 
