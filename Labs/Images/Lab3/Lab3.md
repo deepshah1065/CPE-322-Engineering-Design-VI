@@ -41,7 +41,7 @@
 
 ## **<ins> Continue (or pass) </ins>** 
 ### **Code/Output**
-![Code](Continue_Statement.png)
+![Code](Continue_ Statement.png)
 
 
 
