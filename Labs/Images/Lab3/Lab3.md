@@ -83,7 +83,7 @@
 ## **<ins> Git </ins>** 
 ![Code](Git.png)
 
-## **<ins> Julian, Date_Example, and Date Time_Example </ins>** 
+## **<ins> Julian, Date_Example, Date Time_Example, and Time_Example </ins>** 
 ![Code](Julian,Date_Example,DateTime_Example,Time_Example.png)
 
 ## **<ins> Sun and Moon </ins>** 
