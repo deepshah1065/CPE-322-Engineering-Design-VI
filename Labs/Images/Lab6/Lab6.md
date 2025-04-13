@@ -1,14 +1,14 @@
-# **<ins>Lab 6 — Lab 6 — Node.js and Pystache</ins>**
+# **<ins>Lab 6 — Node.js and Pystache</ins>**
 ## **<ins>Half Adder</ins>**
-### **Code**
-![Code](HalfAdderCode.png)
-### **Output**
-![Output](HalfAdderOutput.png)
+### **Node and Node Package Manager (NPM) Versions**
+![Code](Node_NPM_Versions.png)
+### **Header file used in Node.js development: Node.h**
+![Code](HalfAdderOutput.png)
 ## **<ins>4-to-1 Multiplexer</ins>** 
 ### **Code**
 ![Code](4-to-1MultiplexerCode.png)
 ### **Output**
-![Output](4-to-1MultiplexerOutput.png)
+![Code](4-to-1MultiplexerOutput.png)
 
 
 
