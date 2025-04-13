@@ -14,9 +14,9 @@
 ![Code](Code.png)
 ### Output
 #### **Hello.js, Hello-world.js, Http.js**
-![Output](hello.js_output)
-![Output](hello_world.js_output)
-![Output](http.js_output)
+![Output](hello.js_output.png)
+![Output](hello_world.js_output.png)
+![Output](http.js_output.png)
 
 ## **<ins>Pystache</ins>** 
 ![Code](Pystache.png)
