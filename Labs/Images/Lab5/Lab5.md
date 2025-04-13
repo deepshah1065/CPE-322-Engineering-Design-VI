@@ -3,7 +3,7 @@
 ### **On Raspberry Pi, install and run Mosquitto to subscribe on one terminal and publish on another**
 ![Code](sudo_apt_update.png)
 ![Code](mosquitto_installation.png)
-![Code](mosquitto_sub.png)
+![Code](mosquitto_sub .png)
 ### **Terminal 1: Test/Topics**
 ![Code](mosquitto_sub_test_topic.png)
 ### **Intall Paho and run code to subscribe on one terminal and publish on another**
