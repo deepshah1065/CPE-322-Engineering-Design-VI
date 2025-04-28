@@ -2,5 +2,5 @@
 ## **<ins>ThinkSpeak</ins>**
 ![Code](ThinkSpeak.png)
 ## **<ins>Google Sheets</ins>**
-![Code](Excel.png)
+![Code](ExcelSheet.png)
 
