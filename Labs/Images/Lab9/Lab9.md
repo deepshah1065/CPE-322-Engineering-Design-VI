@@ -52,6 +52,6 @@
 ![Code](GIMP_IntrusionDetectionOutput.png)
 
 ### **<ins> Output </ins>** 
-![Output](GIMP_IntrusionDetectionOutput.png)
+![Output](GIMP_IntrusionDetection.png)
 
 
