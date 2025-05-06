@@ -10,9 +10,9 @@
 ### **Simple Plot**
 ![Output](output_simple_plot.py.png)
 ### **PyPlot Formatstr**
-![Output](4-to-1MultiplexerOutput.png)
-### **Ticklabels Demo Rotation**
 ![Output](output_pyplot_formatstr.py.png)
+### **Ticklabels Demo Rotation**
+![Output](output_ticklabels_demo_rotation.py.png)
 ### **PyPlot Three**
 ![Output](output_pyplot_three.py.png)
 ### **PyPlot Scales**
@@ -46,27 +46,58 @@
 ![Output](output_interpolation.py.png)
 
 ## **<ins> Classification, cross-validation (CV), and support-vector machine (SVM) </ins>** 
-### **Plot lda **
+### **Plot lda**
 ![Output](output_plot_lda.py.png)
-### **Plot lda_qda **
+### **Plot lda_qda**
 #### **Code**
 ![Code](code_plot_lda_qda.py.png)
 ![Output](output_plot_lda_qda.py.png)
 ### **Plot Cross-Validation Predict**
-![Output](output_linreg.py.png)
+![Output](output_plot_cv_predict.py.png)
 ### **Plot Cross-Validation Diabetes**
-![Output](output_interpolation.py.png)
+![Code](code_plot_cv_diabetes.py.png)
+![Output](output_plot_cv_diabetes.py.png)
 ### **Traffic**
-![Output](output_linreg.py.png)
+![Output](output_plot_cv_diabetes.py)
 
 ## **<ins> Keras and TensorFlow </ins>** 
 ### **Keras Diabetes**
-![Output](output_linreg.py.png)
+![Output](output_keras_diabetes.py.png)
+![Output](output_keras_diabetes.py(2).png)
+![Output](output_keras_diabetes.py(3).png)
+![Output](output_keras_diabetes.py(4).png)
+![Output](output_keras_diabetes.py(5).png)
+![Output](output_keras_diabetes.py(6).png)
+
 ### **Keras First Network**
-![Output](output_interpolation.py.png)
+![Output](output_keras_first_network.py.png)
+![Output](output_keras_first_network.py(2).png)
+![Output](output_keras_first_network.py(3).png)
+![Output](output_keras_first_network.py(4).png)
+![Output](output_keras_first_network.py(5).png)
+![Output](output_keras_first_network.py(6).png)
 
+## **<ins> Titanic Examples </ins>** 
+### **Titanic 1**
+![Code](code_titanic_1.py.png)
+![Output](output_titanic_1.py.png)
+### **Titanic 2**
+![Code](output_titanic_2.py.png)
 
+## **<ins> Final Plot </ins>** 
+![Output](![Output](Temperature_CPU_Usage.png)
+![Output](![Output](CPU_Usage_Histogram.png)
+![Output](![Output](Temperature_Histogram.png)
+![Output](![Output](CPU_Usage_BoxPlot.png)
+![Output](![Output](Temperature_BoxPlot.png)
+![Output](![Output](Temperature_versus_CPU_Usage.png)
 
+## **<ins> CV2 Plot </ins>** 
+![Output](![Output](Predicted_Vs_Temperature.png)
+
+## **<ins> Nano File Edits </ins>** 
+![Code](![Output](Nano_File.png)
+![Code](![Output](Nano_File(2).png)
 
 
 
