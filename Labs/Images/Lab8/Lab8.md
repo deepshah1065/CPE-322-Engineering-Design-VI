@@ -29,14 +29,11 @@
 ![Output](output_scatter_demo.py.png)
 ### **Histogram Demo Features**
 ![Output](output_histogram_demo_features.py(1).png)
-![Output](output_histogram_demo_features.py(2).png)
-![Output](output_histogram_demo_features.py(3).png)
 ### **PyPlot Text**
 ![Output](python3_pyplot_text.py.png)
 ### **Histogram Demo Extended**
-![Output](output_histogram_demo_features.py(1).png)
-![Output](output_histogram_demo_features.py(2).png)
-![Output](output_histogram_demo_features.py(3).png)
+![Output](output_histogram_demo_extended.py(2).png)
+![Output](output_histogram_demo_extended.py(2).png)
 ### **Boxplot Demo**
 ![Output](output_boxplot_demo.py(1).png)
 ![Output](output_boxplot_demo.py(2).png)
