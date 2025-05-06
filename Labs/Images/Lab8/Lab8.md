@@ -85,15 +85,15 @@
 ![Code](output_titanic_2.py.png)
 
 ## **<ins> Final Plot </ins>** 
-![Output](![Output](Temperature_CPU_Usage.png)
-![Output](![Output](CPU_Usage_Histogram.png)
-![Output](![Output](Temperature_Histogram.png)
-![Output](![Output](CPU_Usage_BoxPlot.png)
-![Output](![Output](Temperature_BoxPlot.png)
-![Output](![Output](Temperature_versus_CPU_Usage.png)
+![Output](Temperature_CPU_Usage.png)
+![Output](CPU_Usage_Histogram.png)
+![Output](Temperature_Histogram.png)
+![Output](CPU_Usage_BoxPlot.png)
+![Output](Temperature_BoxPlot.png)
+![Output](Temperature_versus_CPU_Usage.png)
 
 ## **<ins> CV2 Plot </ins>** 
-![Output](![Output](Predicted_Vs_Temperature.png)
+![Output](Predicted_Vs_Temperature.png)
 
 ## **<ins> Nano File Edits </ins>** 
 ![Code](![Output](Nano_File.png)
